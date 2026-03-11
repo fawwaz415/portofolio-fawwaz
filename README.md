@@ -66,6 +66,6 @@ Tidak ada untuk sekarang
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau masukan tentang proyek ini, silakan hubungi [Wahyu Fajri] melalui [whybaik2@gmail.com].
+Jika Anda memiliki pertanyaan atau masukan tentang proyek ini, silakan hubungi [] melalui [}.
 
 Terima kasih telah menggunakan website portofolio ini! Kami berharap Anda menikmati melihat karya-karya yang ditampilkan dan pengalaman Anda di situs ini.
