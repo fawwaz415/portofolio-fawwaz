@@ -15,7 +15,7 @@ Berikut adalah langkah-langkah untuk menginstal proyek ini secara lokal:
 
 1. Clone repositori ini ke dalam direktori lokal:
    ```
-   git clone [https://github.com/wahyufajri2/my-portfolio.git]
+   git clone []
    ```
 
 2. Buka direktori proyek:
